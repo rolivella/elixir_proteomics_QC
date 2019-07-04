@@ -3,3 +3,10 @@
 [![Docker Build Status](https://img.shields.io/docker/automated/biocorecrg/qcloud.svg)](https://cloud.docker.com/u/biocorecrg/repository/docker/biocorecrg/qcloud/builds)
 
 gitter chat is https://gitter.im/elixir_proteomics_QC/community
+
+
+* How we converted the mzML files. 
+* Install Singularity and Nextflow.
+* Git clone pipeline.
+* Configure Nextflow: params.config and nextflow.config
+* Copy mzMLs to the incoming folder. 
